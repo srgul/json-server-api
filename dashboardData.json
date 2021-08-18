@@ -1,0 +1,46 @@
+{
+  "name": [
+    {
+      "id": 1,
+      "title": "ozztechDashboard",
+      "author": "typicode"
+    }
+  ],
+  "data": [
+    {
+      "id": 1,
+      "month": "Sait Aga",
+      "data": 100
+    },
+    {
+      "id": 2,
+      "month": "Fortigate",
+      "data": 200
+    },
+    {
+      "id": 3,
+      "month": "22",
+      "data": 100
+    },
+    {
+      "id": 4,
+      "month": "allow",
+      "data": 150
+    },
+    {
+      "id": 5,
+      "month": "192.168.50.20",
+      "data": 200
+    },
+    {
+      "id": 6,
+      "month": "8.8.8.8",
+      "data": 100
+    },
+    {
+      "id": 7,
+      "month": "81.82.8.8",
+      "data": 100
+    }
+  ]
+}
